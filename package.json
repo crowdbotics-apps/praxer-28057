@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@modules/onboarding": "file:./modules/onboarding/"
+    "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/push-notifications": "file:./modules/push-notifications/",
+    "react-native-onesignal": "^4.0.3"
   }
 }
